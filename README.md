@@ -6,7 +6,7 @@
 
 ## Bidding
 
-1. [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lift-bidding.pdf)Jian Xu, Xuhui Shao, Jianjie Ma, Kuang-chih Lee, Hang Qi, Quan Lu. AAAI, 2016
+1. [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lift-bidding.pdf) [Jian Xu](https://sites.google.com/site/jianxuhome/), Xuhui Shao, Jianjie Ma, Kuang-chih Lee, Hang Qi, Quan Lu. AAAI, 2016
 
 ## User Experience
 
