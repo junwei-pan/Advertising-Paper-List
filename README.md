@@ -1,13 +1,22 @@
 # Advertising-Paper-List
 
-## Ads Relevance(CTR, AR prediction)
+## Ads Relevance(CTR, CVR Prediction)
 
-- [Optimizing Searcg Engine Revenue in Sponsored Search.](https://www.stat.osu.edu/~zhu.219/manuscript/sigir09_zhu.pdf) Y. Zhu, G. Wang, J. Yang, D. Wang, J. Yan, J. Hu, Z. Chen. SIGIR, 2009.
+### Sponsor Search
+
+- [Optimizing Search Engine Revenue in Sponsored Search.](https://www.stat.osu.edu/~zhu.219/manuscript/sigir09_zhu.pdf) Y. Zhu, G. Wang, J. Yang, D. Wang, J. Yan, J. Hu, Z. Chen. SIGIR, 2009.
 - [Improving Ad Relevance in Sponsored Search.](http://www.wsdm-conference.org/2010/proceedings/docs/p361.pdf) D. Hillard, S. Schroedl, E. Manavoglu, H. Raghavan, C. Leggetter. WSDM, 2010.
+- [DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks.](http://www.kdd.org/kdd2016/papers/files/rfp0289-zhaiA.pdf) Shuangfei Zhai, Keng-hao Chang, Ruofei Zhang, Zhongfei(Mark) Zhang. SIGKDD, 2016.
+
+### CTR Prediction(for CPM)
+
+### CVR Prediction(for CPA)
+
 - [Estimating Conversion Rete in Display Advertising from Past Performance Data.](https://pdfs.semanticscholar.org/379a/1c6d825f957f030cda8babc519738c224ca3.pdf) Kuang-chih Lee, B. Orten, A. Dasdan, Wentong Li. SIGKDD, 2012.
 - [Post-Click Conversion Modeling and Analysis for Non-Guaranteed Delivery Display Advertising.](http://people.csail.mit.edu/romer/papers/NGDAdvertisingWSDM12.pdf) R. Rosales, Haibin Cheng, E. Manavoglu. WSDM, 2012.
 - [Modeling Delayed Feedback in Display Advertising.](http://olivier.chapelle.cc/pub/delayedConv.pdf) O. Chapelle. SIGKDD, 2014.
-- [DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks.](http://www.kdd.org/kdd2016/papers/files/rfp0289-zhaiA.pdf) Shuangfei Zhai, Keng-hao Chang, Ruofei Zhang, Zhongfei(Mark) Zhang. SIGKDD, 2016.
+- [Pay-Per-Action Model for Online Advertising](http://link.springer.com/chapter/10.1007%2F978-3-540-77105-0_59#page-1) M. Mahdian, K. Tomak. Lecture Notes in Computer Science, 2007.
+- [Simple and scalable response prediction for display advertising](http://olivier.chapelle.cc/pub/ngdstone.pdf) O. Chapelle, E. Manavoglu, R. Rosales. ACM Trans. Intell. Syst. Technol, 2015.
 
 ## Bidding
 
