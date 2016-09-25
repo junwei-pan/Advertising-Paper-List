@@ -16,7 +16,7 @@
 - [Post-Click Conversion Modeling and Analysis for Non-Guaranteed Delivery Display Advertising.](http://people.csail.mit.edu/romer/papers/NGDAdvertisingWSDM12.pdf) R. Rosales, Haibin Cheng, E. Manavoglu. WSDM, 2012.
 - [Modeling Delayed Feedback in Display Advertising.](http://olivier.chapelle.cc/pub/delayedConv.pdf) O. Chapelle. SIGKDD, 2014.
 - [Pay-Per-Action Model for Online Advertising](http://link.springer.com/chapter/10.1007%2F978-3-540-77105-0_59#page-1) M. Mahdian, K. Tomak. Lecture Notes in Computer Science, 2007.
-- [Simple and scalable response prediction for display advertising](http://olivier.chapelle.cc/pub/ngdstone.pdf) O. Chapelle, E. Manavoglu, R. Rosales. ACM Trans. Intell. Syst. Technol, 2015.
+- [Simple and Scalable Response Prediction for Display Advertising](http://olivier.chapelle.cc/pub/ngdstone.pdf) O. Chapelle, E. Manavoglu, R. Rosales. ACM Trans. Intell. Syst. Technol, 2015.
 
 ## Bidding
 
@@ -30,6 +30,6 @@
 
 ## Attribution
 
-- [Data-driven multi-touch attribution models.](http://www.turn.com.akadns.net/sites/default/files/whitepapers/TURN_Tech_WP_Data-driven_Multi-touch_Attribution_Models.pdf) Xuhui Shao, Lexin Li. SIGKDD, 2011.
-- [Causally motivated attribution for online advertising.](https://dstillery.com/wp-content/uploads/2016/07/CAUSALLY-MOTIVATED-ATTRIBUTION.pdf) B. Dalessandro, C. Perlish, O. Stitelman, F. Provost. Workshop paper, 2012.
-- [Time-weighted multi-touch attribution and channel relevance in the customer journey to online purchase.](http://dro.dur.ac.uk/11460/1/11460.pdf?DDD21+dma0daw) D. A. Wooff, J. M. Anderson. JSTP, 2014.
+- [Data-driven Multi-touch Attribution Models.](http://www.turn.com.akadns.net/sites/default/files/whitepapers/TURN_Tech_WP_Data-driven_Multi-touch_Attribution_Models.pdf) Xuhui Shao, Lexin Li. SIGKDD, 2011.
+- [Causally Motivated Attribution for Online Advertising.](https://dstillery.com/wp-content/uploads/2016/07/CAUSALLY-MOTIVATED-ATTRIBUTION.pdf) B. Dalessandro, C. Perlish, O. Stitelman, F. Provost. Workshop paper, 2012.
+- [Time-weighted Multi-touch Attribution and Channel Relevance in the Customer Journey to Online Purchase.](http://dro.dur.ac.uk/11460/1/11460.pdf?DDD21+dma0daw) D. A. Wooff, J. M. Anderson. JSTP, 2014.
