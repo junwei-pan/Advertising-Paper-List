@@ -10,8 +10,13 @@
 
 ### CTR Prediction(for CPM)
 
+- [Fast Computation of Posterior Mode in Multi-Level Hierarchical Models.](http://papers.nips.cc/paper/3416-fast-computation-of-posterior-mode-in-multi-level-hierarchical-models.pdf) Liang Zhang, D. Agarwal. Neural Information Processing Systems Foundation, 2008.
+
 ### CVR Prediction(for CPA)
 
+- [Estimating Rates of Rare Events with Multiple Hierarchies through Scalable Log-linear Models.](https://pdfs.semanticscholar.org/e465/bd651c673c7f0301a5b51012cf2d8d088ea2.pdf) D. Agarwal, R. Agrawal, R. Khanna, N, Kota. SIGKDD, 2010. 
+- [Estimating Rates of Rare Events at Multiple Resolutions.](http://www.cs.cmu.edu/~deepay/mywww/papers/kdd07-estimating.pdf) D. Agarwal, A. Broder, D. Chakrabarti, D. Diklic, V. Josifovski, M. Sayyadian. SIGKDD, 2007
+- [Response Prediction Using Collaborative Filtering with Hierarchies and Side-information. ](http://users.cis.fiu.edu/~lzhen001/activities/KDD2011Program/docs/p141.pdf) A. K. Menon, K. Chitrapura, S. Garg, D. Agarwal, N. Kota. SIGKDD, 2011.
 - [Estimating Conversion Rete in Display Advertising from Past Performance Data.](https://pdfs.semanticscholar.org/379a/1c6d825f957f030cda8babc519738c224ca3.pdf) Kuang-chih Lee, B. Orten, A. Dasdan, Wentong Li. SIGKDD, 2012.
 - [Post-Click Conversion Modeling and Analysis for Non-Guaranteed Delivery Display Advertising.](http://people.csail.mit.edu/romer/papers/NGDAdvertisingWSDM12.pdf) R. Rosales, Haibin Cheng, E. Manavoglu. WSDM, 2012.
 - [Modeling Delayed Feedback in Display Advertising.](http://olivier.chapelle.cc/pub/delayedConv.pdf) O. Chapelle. SIGKDD, 2014.
