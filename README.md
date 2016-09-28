@@ -33,6 +33,8 @@
 - [Improving Post-Click User Engagement on Native Ads via Survival Analysis.](http://ir.dcs.gla.ac.uk/~mounia/Papers/post2016.pdf). N. Barbieri, F. Silvestri, M. Lalmas. WWW, 2016.
 - [Prediting Pre-Click Quality for Native Advertisements.](http://www.dcs.gla.ac.uk/~mounia/Papers/preclick.pdf) Ke Zhou, M. Redi, Andy Haines, Mounia Lalmas. WWW, 2016.
 
+## Allocation
+
 ## Attribution
 
 - [Data-driven Multi-touch Attribution Models.](http://www.turn.com.akadns.net/sites/default/files/whitepapers/TURN_Tech_WP_Data-driven_Multi-touch_Attribution_Models.pdf) Xuhui Shao, Lexin Li. SIGKDD, 2011.
