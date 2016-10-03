@@ -10,6 +10,8 @@
 
 ### CTR Prediction(for CPM)
 
+- [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising.](http://www.kdd.org/kdd2016/papers/files/adp0028-zhangA.pdf) Weinan ZhangM Tianxiong Zhou, Jun Wang, Jian Xu. SIGKDD, 2016.
+- [Deep Learning over Multi-field Categorical Data – A Case Study on User Response Prediction. ](https://arxiv.org/pdf/1601.02376v1.pdf) Weinan Zhang, Tianming Du, Jun Wang.
 - [Fast Computation of Posterior Mode in Multi-Level Hierarchical Models.](http://papers.nips.cc/paper/3416-fast-computation-of-posterior-mode-in-multi-level-hierarchical-models.pdf) Liang Zhang, D. Agarwal. Neural Information Processing Systems Foundation, 2008.
 
 ### CVR Prediction(for CPA)
